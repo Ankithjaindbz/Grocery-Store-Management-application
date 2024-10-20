@@ -6,14 +6,6 @@ In this python project, we will build a grocery store management application. It
 
 ![](homepage.JPG)
 
-### Installation Instructions
-
-Download mysql for windows: https://dev.mysql.com/downloads/installer/
-
-`pip install mysql-connector-python`
-
-### Exercise 
-
 The grocery management system that we built is functional but after we give it to users for use, we got following feedback. The exercise for you to address this feedback and implement these features in the application,
 1. **Products Module**: In products page that lists current products, add an edit button next to delete button that allows to edit current product
 2. **Products Module**: Implement a new form that allows you to add new UOM in the application. For example you want to add **Cubic Meter** as a new UOM as the grocery store decided to start selling **wood** as well. This requies changing backend (python server) and front end (UI) both.
